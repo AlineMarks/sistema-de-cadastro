@@ -1,2 +1,5 @@
 print "adicione seu contato: "
 print "outras informção"
+print "adicione seu nome completo:"
+print "adicone telefone: "
+print "adicone endereço"
